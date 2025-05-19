@@ -1,0 +1,32 @@
+# Ignora a pasta de build do Maven
+/target/
+
+# Ignora configurações do NetBeans
+/nbproject/private/
+/nbbuild/
+/build/
+/dist/
+nb-configuration.xml
+
+# Ignora arquivos temporários do sistema
+*.class
+*.log
+*.tmp
+*.swp
+
+# Ignora IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Ignora arquivos de backup
+*~
+*.bak
+
+# Ignora arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Git
+.gitattributes
